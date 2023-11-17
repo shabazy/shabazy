@@ -12,7 +12,7 @@ I apply clean code and design pattern principles to develop loosely-coupled, ext
 
 There is not only one way to do any task. I mostly would like to make sure of that whether I applied the best practices or not. If not, it disturbs me every moment.
 
-📫 You can reach me out via Linkedin -> https://www.linkedin.com/in/ensep/
+📫 You can reach me out via Linkedin - https://www.linkedin.com/in/ensep/
 
 <!--
 **shabazy/shabazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
