@@ -1,6 +1,6 @@
 ### Hi, this is Gokhan Ensep 👋
 
-I'm currently working for Kuehne+Nagel company as Senior Software Engineer and living in Tallin, Estonia.
+I'm currently working for Kuehne+Nagel company as a Senior Software Engineer and living in Tallin, Estonia.
 
 I'm interesting in useful tech stacks to make my development life easier.
 
